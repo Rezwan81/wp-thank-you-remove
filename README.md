@@ -1,0 +1,1 @@
+# wp-thank-you-remove
